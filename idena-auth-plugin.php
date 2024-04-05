@@ -3,7 +3,7 @@
 Plugin Name: Idena Connect
 Description: Plugin for connecting to Idena.
 Version: 0.93
-Author: Blockside
+Author: Morienzo (Blockside)
 */
 
 // Add the login button to the wp-login.php page
